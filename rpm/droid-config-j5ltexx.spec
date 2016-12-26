@@ -10,7 +10,7 @@
 %define community_adaptation 1
 
 # Adjust this for your device
-%define pixel_ratio 1.5
+%define pixel_ratio 1.25
 # We assume most devices will
 %define have_modem 1
 %include droid-configs-device/droid-configs.inc
