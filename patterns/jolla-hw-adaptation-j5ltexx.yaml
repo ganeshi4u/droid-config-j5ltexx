@@ -16,6 +16,7 @@ Requires:
 - droid-config-j5ltexx-policy-settings
 - droid-config-j5ltexx-preinit-plugin
 - droid-config-j5ltexx-flashing
+- droid-hal-j5ltexx-detritus
 - droid-hal-version-j5ltexx
 
 - pulseaudio-modules-droid
